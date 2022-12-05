@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "商品分类",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-skeleton": "/uni_modules/uview-ui/components/u-skeleton/u-skeleton",
+    "u--text": "/uni_modules/uview-ui/components/u--text/u--text"
+  }
+}

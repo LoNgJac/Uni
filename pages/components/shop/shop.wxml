@@ -1,0 +1,1 @@
+<view class="s-shop"><block wx:for="{{item.picture}}" wx:for-item="item2" wx:for-index="index2"><view class="{{['picture',index===0?'picture':'picture2']}}"><image src="{{item2.image}}" alt class="_img"></image><view class="text"><view class="name">{{item2.name}}</view><view class="price">{{item2.price}}</view></view></view></block></view>

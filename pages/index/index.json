@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "黑金会员商品",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-search-bar": "/uni_modules/uni-search-bar/components/uni-search-bar/uni-search-bar",
+    "u-skeleton": "/uni_modules/uview-ui/components/u-skeleton/u-skeleton",
+    "uni-grid": "/uni_modules/uni-grid/components/uni-grid/uni-grid",
+    "uni-grid-item": "/uni_modules/uni-grid/components/uni-grid-item/uni-grid-item",
+    "shuma": "/pages/components/shuma/shuma"
+  }
+}
